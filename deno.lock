@@ -26,6 +26,7 @@
     "https://deno.land/x/hono@v4.3.5/router/trie-router/index.ts": "3eb75e7f71ba81801631b30de6b1f5cefb2c7239c03797e2b2cbab5085911b41",
     "https://deno.land/x/hono@v4.3.5/router/trie-router/node.ts": "d3e00e8f1ba7fb26896459d5bba882356891a07793387c4655d1864c519a91de",
     "https://deno.land/x/hono@v4.3.5/router/trie-router/router.ts": "54ced78d35676302c8fcdda4204f7bdf5a7cc907fbf9967c75674b1e394f830d",
+    "https://deno.land/x/hono@v4.3.5/types.ts": "b561c3ee846121b33c2d81331246cdedf7781636ed72dad7406677105b4275de",
     "https://deno.land/x/hono@v4.3.5/utils/body.ts": "bf0e88baf44a24f8fc14df98e56d92c671652580f79b88b6edc21f915ec559da",
     "https://deno.land/x/hono@v4.3.5/utils/buffer.ts": "2fae689954b427b51fb84ad02bed11a72eae96692c2973802b3b4c1e39cd5b9c",
     "https://deno.land/x/hono@v4.3.5/utils/cookie.ts": "6eaaf6909a4ae11f6c82404e9398e1c247e3f1854d73994a9e2e6fc3cdf7b584",
