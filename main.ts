@@ -7,6 +7,6 @@ app.get('/', (c) => c.text('Hello from Deno Deploy! 🎉'))
 // Bạn có thể thêm route khác như:
 app.get('/api/hello', (c) => c.json({ msg: "Hi! Deno Deploy! 🎉" }))
 
-Deno.cron("send main cron", "* * * * *", scheduled);
+Deno.cron("send main cron", "0 9 * * 1", scheduled);
 
 Deno.serve(app.fetch)
