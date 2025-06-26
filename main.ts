@@ -1,5 +1,5 @@
 import { Hono } from 'https://deno.land/x/hono@v4.3.5/mod.ts'
-import { scheduled } from './cron'
+import { scheduled } from './cron.ts'
 const app = new Hono()
 
 app.get('/', (c) => c.text('Hello from Deno Deploy! 🎉'))
